@@ -1,0 +1,7 @@
+{
+  "name": "Sistem Informasi Sarpras Sekolah (SIMSARPRAS)",
+  "description": "Aplikasi manajemen sarana dan prasarana sekolah profesional dengan fitur inventarisasi barcode, mutasi, opname, dan pelaporan lengkap.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
