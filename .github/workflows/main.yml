@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "Initial commit SIMSARPRAS"
+git branch -M main
+git remote add origin https://github.com/username-anda/simsarpras.git
+git push -u origin main
